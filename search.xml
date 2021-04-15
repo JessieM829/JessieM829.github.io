@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Improving Diabetic Diagnosis and Prevention with Machine Learning on Retinal Imaging</title>
+      <link href="2021/04/15/project-summary/"/>
+      <url>2021/04/15/project-summary/</url>
+      
+        <content type="html"><![CDATA[<video width=1000px; controls><source src="presentation.mp4"></video><hr><h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p class="p">The purpose of this research was to build an optimized model by machine learning algorithms that can improve the diagnosis accuracy of classifying patients at high risk of diabetes using retinal imaging. If the retinal imaging shows evidence of abnormalities such as change in volume, diameter, and unusual spots in the retina, then there is a positive correlation to the diabetic progress. Mathematical and statistical theories behind the machine learning algorithms are powerful enough to detect signs of diabetes through retinal images. Several machine learning algorithms were applied to predict whether images contain signs of diabetic retinopathy or not. After building the models, the computed results of these algorithms were compared by confusion matrices and graphs. The performance of the Support Vector Machine algorithm was the best with a 75% accuracy. This conclusion shows that the most complex algorithms don't always give the best performance and the final accuracy also depends on the dataset. Detecting signs of diabetic retinopathy is helpful for detecting diabetes since more than 45% of American patients with diabetes have signs of diabetic retinopathy. Machine learning algorithms can speed up the process and improve the accuracy of diagnosis. When the method is reliable enough, it can be utilized in diabetes diagnosis directly in clinics. Current methods require going on diets and taking blood samples, which could be very time consuming and inconvenient. Using machine learning algorithms is fast and non-invasive compared to the existing methods.</p><hr><style>.p{    text-indent: 2em;    text-align: justify;}</style><div class="row">    <embed src="Science-Fair-Presentation.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
